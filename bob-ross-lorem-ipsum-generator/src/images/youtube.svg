@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.604" height="29.741" viewBox="0 0 40.604 29.741">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #063e23;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="social-video-youtube-clip" class="cls-1" d="M38.354,9.749A5.749,5.749,0,0,0,32.605,4H6.5A5.749,5.749,0,0,0,.75,9.749V24.992A5.749,5.749,0,0,0,6.5,30.741H32.605a5.749,5.749,0,0,0,5.749-5.749ZM15.374,23.955V9.482l11.315,7.237Z" transform="translate(0.75 -2.5)"/>
+</svg>
